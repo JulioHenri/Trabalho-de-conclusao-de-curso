@@ -13,4 +13,3 @@ Técncias:
 - Validação Cruzada
 - Standard Scale
 - Métricas de avaliação: criadas a partir da Matriz de confusão (recall, accuracy)
-- 
